@@ -1,6 +1,6 @@
 #  Hi, I'm Atharv Gudekar
 
-### 🐍 Python Developer | Backend Development | AI & Automation
+###  Python Developer | Backend Development | AI & Automation
 
 I'm a BSc IT graduate and Python developer interested in building practical, reliable, and user-focused applications.
 
